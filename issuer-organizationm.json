@@ -1,7 +1,7 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
-    "id": "https://github.com/coa/issuer-organization.json",
+    "id": "https://chateaulav.github.io/issuer-organization.json",
     "type": "Issuer",
-    "name": "Open Infrastructur Foundation",
+    "name": "Open Infrastructure Foundation",
     "url": "https://coa.edu.mirantis.com/verify/?cert=COA-2200-110488-0100&name=Jonathan+Race"
 }
