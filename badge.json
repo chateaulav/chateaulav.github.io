@@ -1,4 +1,5 @@
 {
+    "id": "https://chateaulav.github.io/class.json",
     "type": "Assertion",
     "uid": "COA-2200-110488-0100",
     "recipient": {
@@ -6,11 +7,9 @@
         "type": "email",
         "hashed": false
     },
+    "image": "https://chateaulav.github.io/coa-badge.svg",
+    "evidence": "https://coa.edu.mirantis.com/verify/?cert=COA-2200-110488-0100&name=Jonathan+Race",
     "issuedOn": 1649980799,
     "badge": "https://chateaulav.github.io/class.json",
-    "verify": {
-        "type": "hosted",
-        "url": "https://coa.edu.mirantis.com/verify/?cert=COA-2200-110488-0100&name=Jonathan+Race"
-    },
-    "image": "https://chateaulav.github.io/coa-badge.svg"
+    "verification": "HostedBadge"
 }
