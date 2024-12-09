@@ -1,6 +1,6 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
-    "id": "https://chateaulav.github.io/badge.json",
+    "id": "https://chateaulav.github.io/class.json",
     "type": "BadgeClass",
     "name": "Certified OpenStack Administrator",
     "description": "A Badge for the completion of the Certified Openstack Administrator Exam",

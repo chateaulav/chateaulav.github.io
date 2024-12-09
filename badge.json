@@ -10,7 +10,7 @@
     },
     "image": "https://chateaulav.github.io/coa-badge.svg",
     "evidence": "https://coa.edu.mirantis.com/verify/?cert=COA-2200-110488-0100&name=Jonathan+Race",
-    "issuedOn": 1649980799,
+    "issuedOn": "2022-04-14T23:59:59Z",
     "badge": "https://chateaulav.github.io/class.json",
     "verify": {
         "type": "hosted",
