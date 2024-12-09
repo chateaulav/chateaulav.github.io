@@ -1,0 +1,7 @@
+{
+    "name": "Certified OpenStack Administrator",
+    "description": "A Badge for the completion of the Certified Openstack Administrator Exam",
+    "image": "https://chateaulav.github.io/coa-badge.svg",
+    "criteria": "https://chateaulav.github.io",
+    "issuer": "https://chateaulav.github.io/issuer.json"
+}
