@@ -1,0 +1,11 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "id": "https://github.com/coa/reader-badge.json",
+    "type": "BadgeClass",
+    "name": "Reader",
+    "description": "Personal COA",
+    "image": "https://github.com/coa/coa-badge.svg",
+    "tags": ["reader"],
+    "alignment": [ ],
+    "issuer": "https://github.com/coa/issuer-organization.json"
+}
