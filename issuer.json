@@ -1,4 +1,6 @@
 {
+    "@context": "https://w3id.org/openbadges/v2",
+    "id": "https://chateaulav.github.io/issuer.json",
     "type": "Issuer",
     "name": "Open Infrastructure Foundation",
     "url": "https://coa.edu.mirantis.com/tool"
