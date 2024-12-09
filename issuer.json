@@ -1,4 +1,5 @@
 {
-  "name": "Open Infrastructure Foundation",
-  "url": "https://coa.edu.mirantis.com/tool"
+    "type": "Issuer",
+    "name": "Open Infrastructure Foundation",
+    "url": "https://coa.edu.mirantis.com/tool"
 }
